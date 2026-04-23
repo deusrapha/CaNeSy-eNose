@@ -55,7 +55,7 @@ CaNeSy-eNose/
 ## Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/deustumusiime/Canesy-eNose.git
+git clone https://github.com/deusrapha/Canesy-eNose.git
 cd Canesy-eNose
 ```
 
@@ -252,5 +252,5 @@ You may extend or modify the work with proper attribution.
 # Contact
 
 Email: deus.mal@gmail.com  
-GitHub: https://github.com/deustumusiime
+GitHub: https://github.com/deusrapha
 
